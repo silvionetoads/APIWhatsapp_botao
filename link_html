@@ -1,1 +1,5 @@
+Código, que chama no Whatsapp, sem mensagem.
 <a href="https://api.whatsapp.com/send?phone=SeuNúmero">Chame no Whatsapp</a>
+
+Código, que chama no Whatsapp, com uma mensagem programada.
+<a href="https://api.whatsapp.com/send?phone=SeuNúmero&text=SuaMensagem">Chame no Whatsapp</a>
